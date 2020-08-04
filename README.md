@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Alex Yom and I enjoy using data to derive useful information that can provide support and guidance in making decisions. I am comfortable using python and sql to work with data and enjoy using Tableau to build data visualizations.
+### Hi 👋
+
+I enjoy using data to derive useful information that can provide support and guidance in making decisions. I am comfortable using Python and SQL to work with data and enjoy using Tableau to build data visualizations.
 
 
 
